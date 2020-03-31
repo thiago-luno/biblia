@@ -1,4 +1,4 @@
-Este projeto pode ser testado em [Test](https://app.netlify.com/sites/vigilant-bhabha-af6417/overview).
+Este projeto pode ser testado em [Homolog](https://vigilant-bhabha-af6417.netlify.com/).
 
 ## Scripts disponíveis
 

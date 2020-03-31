@@ -1,0 +1,20 @@
+.content-search {
+  position: relative;
+}
+
+.input-search {
+  width: 200px;
+  border: 1px solid #d7d7d7;
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+
+.input-search::placeholder {
+  color: #d7d7d7;
+}
+
+.content-search svg {
+  position: absolute;
+  left: 10px;
+  top: 12px;
+}

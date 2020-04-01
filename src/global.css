@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
 
 * {
   margin: 0;
@@ -8,6 +10,7 @@
 }
 
 body {
-  font: 400 14px Roboto, sans-serif;
+  font: 400 14px Merriweather, sans-serif;
   webkit-font-smoothing: antialiased; 
+  color: #555;
 }

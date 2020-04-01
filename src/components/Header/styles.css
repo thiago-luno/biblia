@@ -1,7 +1,18 @@
 .content-header {
+  width: calc(100% - 250px);
+  position: fixed;
+  top:0;
+  display: flex;
+  background-color: #fff;
+  border-bottom: 1px solid #f4f4f4;
+  padding: 10px 0;
+  margin: 0 auto;
+}
+
+.contaner-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #f4f4f4;
-  padding: 10px
+  width: 60%;
+  margin: 0 auto;
 }

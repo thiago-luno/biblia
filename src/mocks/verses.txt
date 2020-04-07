@@ -1,0 +1,68 @@
+ <p className="verse">
+          <span className="verse-number">1</span> No tempo de Assuero, que reinava desde a Índia até a Etiópia sobre cento e vinte e sete províncias,
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">2</span> naqueles dias em que ele ocupava o trono real de Susa, sua capital,
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">3</span> no terceiro ano de seu reinado, deu um banquete a todos os cortesãos e a seus servos. Tinha reunido em sua presença os chefes do exército dos persas e dos medos, os príncipes e os governadores das províncias,
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">4</span> para fazer manifestação da riqueza e do esplendor de seu reino, da rara magnificência de sua grandeza, durante um tempo considerável, a saber, cento e oitenta dias.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">5</span> Passado esse tempo, o rei ofereceu a toda a população de Susa, a capital, desde o maior até o menor, um banquete de sete dias no pátio do jardim, junto ao palácio.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">6</span> Cortinas brancas de algodão e de púrpura violeta, presas por cordões brancos e purpúreos a anéis de prata e a colunas de mármore; leitos de ouro e prata sobre um pavimento de pórfiro, de mármore branco, de nácar e pedra preta;
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">7</span> bebida servida em copos de ouro de variadas formas; o vinho real em abundância oferecido pela liberalidade do rei.
+          Bebia-se sem ser importunado por ninguém, segundo uma ordem do rei, porque ele tinha recomendado a todos os chefes de sua casa que deixassem cada um proceder como lhe agradasse.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">8</span> Por sua parte, a rainha Vasti ofereceu o banquete das mulheres no palácio do rei Assuero.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">9</span> No sétimo dia, o rei cujo coração estava alegre pelo vinho, ordenou a Mauman, Bazata, Harbona, Bagata, Abgata, Zetar e Carcar - os sete eunucos a serviço, junto de Assuero -
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">10</span> que trouxessem à sua presença a rainha Vasti com o diadema real, para mostrar ao povo e aos grandes toda a sua beleza, porque era formosa de aspecto.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">11</span> Mas a rainha Vasti recusou sujeitar-se à ordem do rei transmitida pelos eunucos, com o que se irritou grandemente o rei, acendendo-se o seu furor.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">12</span> Consultou os sábios versados na ciência dos tempos. Porque os assuntos reais eram tratados desse modo, com jurisconsultos,
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">13</span> e os mais considerados eram Carsena, Setar, Admata, Tarsis, Mares, Marsena e Memucan, sete príncipes da Pérsia e da Média, que contemplavam a face do rei e ocupavam o primeiro lugar no reino.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">14</span> Que lei, disse ele, se deve aplicar à rainha Vasti, por não ter obedecido a ordem que o rei Assuero lhe transmitiu pelos eunucos?
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">15</span> Não foi somente em relação ao rei, respondeu Memucan, que se comportou mal a rainha Vasti, mas também em relação a todos os príncipes e os povos das províncias do rei Assuero.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">16</span> Porque o proceder da rainha será conhecido de todas as mulheres e as incitará a desprezar seus maridos. Dirão: O rei Assuero tinha mandado trazer à sua presença a rainha Vasti, mas ela não quis vir.
+          </p>
+
+          <p className="verse">
+          <span className="verse-number">17</span> Daqui em diante, as senhoras da Pérsia e da Média, sabendo da conduta da rainha, responderão do mesmo modo a todos os grandes do rei e disso resultará, por toda parte, desprezo e irritação.
+          </p>

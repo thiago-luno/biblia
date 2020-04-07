@@ -1,0 +1,32 @@
+.content-header-book {
+  min-width: 250px;
+  height: 320px;
+  position: relative;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.header-book-legend {
+  position: absolute;
+  z-index: 9999;
+  top: 0;
+  background: #135c73;
+  width: 100%;
+  opacity: .8;
+  z-index: 1;
+}
+
+.header-book-text-primary {
+  display: block;
+  font-size: 50px;
+  font-weight: 100;
+}
+
+.header-book-text-seundary {
+  display: block;
+  font-weight: 100;
+}

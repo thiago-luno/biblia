@@ -6,7 +6,7 @@ import './styles.css';
 export default function Search() {
   return (
     <div className="content-search">
-      <FaSearch color="#4a6da7"/>
+      <FaSearch color="#72b7e8"/>
       <input className="input-search" type="text" placeholder="Pesquisar"/>
     </div>
   );

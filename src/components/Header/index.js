@@ -7,7 +7,7 @@ import './styles.css';
 export default function Header() {
   return (
     <header className="content-header">
-      <div className="contaner-header">
+      <div className="container container-header">
         <Control />
         <Search />
       </div>

@@ -1,4 +1,4 @@
-Este projeto pode ser testado em [Homolog](https://vigilant-bhabha-af6417.netlify.com/).
+Este projeto visa divulgar a biblia sagrada em diversas versões disponíveis.
 
 ## Scripts disponíveis
 

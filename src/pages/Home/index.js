@@ -140,7 +140,7 @@ export default function Home() {
     
       <footer className="footer">
         <div className="container">
-          <span>Biblia - Todos os direitos reservados</span>
+          <p>Biblia - Todos os direitos reservados</p>
         </div>
       </footer>
     </div>

@@ -1,21 +1,33 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import { useParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 
 import { FiBookOpen } from 'react-icons/fi';
 
+import api from '../../services/api';
+
 import './styles.css';
 
 export default function Menu(props) {
+  
+  const { version, book } = useParams();
+  const [infoBook, setInfoBook] = useState();
 
-  const { data } = props;
+  useEffect(() => {
+    api.get(`authors/${book}`)
+    .then(response => {
+      setInfoBook(response.data)
+    })
+  }, []);
 
   function buildChapter(indice) {
+  
     let chapters = [];
 
     for(let x=1; x <= indice; x++) {
       chapters.push(
         <li key={x} className="list-item">
-          <Link className="list-link" to={`/${data.version}/${data.cod}/${x}`}>{x}</Link>
+          <Link className="list-link" to={`/${version}/${infoBook.cod}/${x}`}>{x}</Link>
         </li>
       )
     }
@@ -33,7 +45,7 @@ export default function Menu(props) {
       </h3>
 
       <ul className="list">
-        {data && buildChapter(data.chapters)}
+        {infoBook && buildChapter(infoBook.chapters)}
       </ul>
     </aside>
   )

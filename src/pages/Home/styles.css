@@ -131,3 +131,8 @@
   align-items: center;
   color: #72b7e8;
 }
+
+.footer p {
+  width: 100%;
+  text-align: center;
+}

@@ -15,23 +15,13 @@ export default function Scriptures() {
   const { book, chapter, version } = useParams();
   const [ verses, setVerses ] = useState([]);
   const [ chapterName, setChapterName ] = useState([]);
-  const [ data, setData ] = useState([]);
 
-  useEffect(() => {
-    let data = {version: version};
-
-    api.get(`authors/${book}`)
-      .then(chap => {
-        data['chapters'] = chap.data.chapters; 
-      })
-      
+  useEffect(() => {      
     api.get(`verses/${version}/${book}/${chapter}`)
       .then(response => {
- 
-        data['cod'] = response.data[0].bookCode;
+
         setVerses(response.data)
         setChapterName(response.data[0].bookName)
-        setData(data)
 
       })
   }, [chapter])
@@ -42,7 +32,7 @@ export default function Scriptures() {
       <div className="container">
         <ImageBook chapterName={chapterName}/>
         <Verses data={verses} chapter={chapterName} atualChapter={chapter} />
-        <Menu data={data} />
+        <Menu />
       </div>
     </>
   )

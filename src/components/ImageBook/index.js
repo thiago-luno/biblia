@@ -5,7 +5,7 @@ import './styles.css';
 
 
 export default function ImageBook(props) {
-    console.log('props', props)
+
   const { book } = useParams();
   const { chapterName } = props;
   const styles = {
